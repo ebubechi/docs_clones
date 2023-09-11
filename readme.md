@@ -1,7 +1,7 @@
-# dropbox_clone
+# docs_clone
 
 A Flutter project:
-  A clone of dropbox
+  A clone of docs
 
 |                |              |
 | :------------- | :----------: |
@@ -11,16 +11,19 @@ A Flutter project:
 
 ## Packages used
 
-- google_fonts
-- flutter_svg
-- fl_chart
-- flutter_zoom_drawer
+- google_sign_in
+- flutter_riverpod
+- routemaster
+- flutter_quill
 
 ## To run app
 
 - clone repo
+- npm i
+- npm run dev
 - flutter pub get
 - flutter run
+- comment out the 
 
 ## Getting Started
 
